@@ -35,5 +35,12 @@ Puedes utilizar el índice de Colab para visualizar las diferentes secciones
 ## También puedes bajar directamente el modelo optimizado y utilizarlo para tus predicciones
 ### El formato del modelo es ".joblib" y lo encontraras aquí: [Modelo_LGBM](https://github.com/Lumirdor/Prediccion_ACV_DS/blob/6aef293d35650647f8b166c725218564880bae69/lgbm_tuning_model.joblib) 
 
+## Los datos utilizados para el proyecto están vinculados directamente a un repositorio en Github.
+### Puedes descargarlos desde aquí: [Listados_pacientes_hospitales](https://github.com/Lumirdor/Prediccion_ACV_DS/blob/31ba5b7c9be4cd4bc2c5aea89e75d672440a7374/pacientes_hospital.csv)
+
+### O bien, directamente desde la fuente en Kaggle: [Datos_Kaggle](https://www.kaggle.com/datasets/shashwatwork/cerebral-stroke-predictionimbalaced-dataset/)
+
+
+
 
 
