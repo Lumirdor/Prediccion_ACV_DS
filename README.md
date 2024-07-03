@@ -16,7 +16,9 @@
  ### Puedes visualizarlo desde aquí: [Prevencion y prediccion de ACV - Proyecto final.pptx](https://github.com/Lumirdor/Prediccion_ACV_DS/blob/d61a255dc1dfa89aad5457df3482e104fd0de324/Prevencion%20y%20prediccion%20de%20ACV%20-%20Proyecto%20final.pptx)
 
 ## El código es programado en Google Colab
-### Puedes encontrarlo en el repositorio o en el siguiente enlace: [Prediccion y prevencion de ACV](https://github.com/Lumirdor/Prediccion_ACV_DS/blob/d61a255dc1dfa89aad5457df3482e104fd0de324/Proyecto_final_Caparros_Rodrigo.ipynb) 
+### Puedes encontrarlo en el repositorio o en el siguiente enlace: [Prediccion y prevencion de ACV](https://github.com/Lumirdor/Prediccion_ACV_DS/blob/7091a559ce69f1ab0ddce3c044eb943496f366f1/Proyecto_final_DS_Caparros_Rodrigo.ipynb) 
+
+
 
 El proyecto está organizado de la siguiente manera:
 1. Abstract y contexto
